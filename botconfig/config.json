@@ -1,5 +1,5 @@
 {
-    "token": "NzMzMzIyNjY1MjkyNTk1Mjky.XxBd8w.MaAA3GdLhSZjuXm-oO2Lh8DLXOQ",
+    "token": "NzMzMzIyNjY1MjkyNTk1Mjky.XxBd8w.IaoXWVwYmTbVfmVG9yhrkNiEWnI",
     "prefix": "//",
     "ownerIDS": [
         "410344531133726731"
@@ -28,7 +28,7 @@
         "COMMENT": "time_delay 0 === insta leave",
         "leaveOnEmpty_Channel": {
             "enabled": false,
-            "time_delay": 0
+            "time_delay": 30000
         },
         "LeaveOnEmpty_Queue": {
             "enabled": false,
