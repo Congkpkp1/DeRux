@@ -1,5 +1,5 @@
 {
-    "token": "NzMzMzIyNjY1MjkyNTk1Mjky.XxBd8w.N7yaWc66JK2po3dWWtdC8qJIffE",
+    "token": "NzMzMzIyNjY1MjkyNTk1Mjky.XxBd8w.MaAA3GdLhSZjuXm-oO2Lh8DLXOQ",
     "prefix": "//",
     "ownerIDS": [
         "410344531133726731"
@@ -15,9 +15,9 @@
     },
     "clientsettings": {
         "nodes": [{
-            "host": "us1.lavalink.creavite.co",
-            "port": 20080,
-            "password": "auto.creavite.co"
+            "host": "lavalink.oops.wtf",
+            "port": 2000,
+            "password": "www.freelavalink.ga"
         }]
     },
     "spotify": {
